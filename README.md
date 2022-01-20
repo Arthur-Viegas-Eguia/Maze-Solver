@@ -1,5 +1,5 @@
 # Maze-Solver
-Homework about stacks developed for Data Structures.
+Adaptation of code which was originally developed as a homework about stacks developed for Data Structures.
 ## Overview:
 The program models an algorithm to find the solution to mazes, and prints it on the screen.
 With this program you can:
